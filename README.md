@@ -8,4 +8,4 @@ Folder created in the computer, empty repository created in Github, both connect
 
 ## Sub-header
 
-Changes made from Github.
+Changes made from Github will be "git pull"ed.
